@@ -1,0 +1,14 @@
+{
+  "name": "ganache-remote",
+  "version": "1.0.0",
+  "description": "Ganache hosted on render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gurnish",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
